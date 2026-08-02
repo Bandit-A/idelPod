@@ -31,7 +31,7 @@
 由于当前版本为内部测试分发版，安装时请遵循以下步骤：
 
 ### 1. 下载应用
-进入 [Releases 页面](#)（此处可替换为你的 GitHub Releases 链接），下载最新版本的 `IdeaPod.zip` 并解压，将 `IdeaPod.app` 拖入你的 **应用程序 (Applications)** 文件夹。
+进入 [Releases 页面](https://github.com/Bandit-A/idelPod/releases/tag/TestGame)下载最新版本的 `IdeaPod.zip` 并解压，将 `IdeaPod.app` 拖入你的 **应用程序 (Applications)** 文件夹。
 
 ### 2. 首次运行与权限放行 (重要)
 由于 macOS 的 Gatekeeper 安全机制，首次打开从 GitHub 下载的应用可能会提示“无法验证开发者”。请按以下步骤操作：
